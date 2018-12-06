@@ -34,7 +34,7 @@
 	<div class="container">
 
 		<div class="starter-template">
-			<h1>Spring Boot</h1>
+			<h1>Spring Boot!</h1>
 			<h2>Message: ${message}</h2>
 		</div>
 
